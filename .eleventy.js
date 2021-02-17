@@ -66,8 +66,8 @@ module.exports = function(eleventyConfig) {
     return [...tagSet];
   });
 
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("11ty/img");
+  eleventyConfig.addPassthroughCopy("11ty/css");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
