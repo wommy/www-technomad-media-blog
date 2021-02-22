@@ -1,0 +1,12 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: 'media/'
+collections:
+  - name: 'topics'
+    label: 'Topics'
+    title: 'topic'
+    folder: '11ty/topics'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
