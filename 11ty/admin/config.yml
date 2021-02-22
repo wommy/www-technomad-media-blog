@@ -4,7 +4,7 @@ backend:
 media_folder: 'media/'
 collections:
   - name: 'topics'
-    label: 'Topics'
+    label: 'Topic'
     title: 'topic'
     folder: '11ty/topics'
     create: true
