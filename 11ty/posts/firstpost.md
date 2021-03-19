@@ -17,4 +17,4 @@ guess we can look at the commit history
 
 - [x] publish on netlify
 
-holy cow, i already published it
+holy cow, it was already published
