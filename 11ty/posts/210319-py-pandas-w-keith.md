@@ -22,3 +22,6 @@ tags:
 - ## why all this repetition
 
 ![calc5](/img/0319-libreoffice-calc-ss5.png)
+
+you could split this giant boy into tables based on vendor  
+and then delete the part of the title that has the vendor name in it
