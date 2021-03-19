@@ -9,12 +9,16 @@ tags:
 
 ![calc1](/img/0319-libreoffice-calc-ss1.png)
 
-- ### i deleted column C and it fixed it, but a new pattern emerges
+- ## i deleted column C and it fixed it, but a new pattern emerges
 
 ![calc2](/img/0319-libreoffice-calc-ss2.png)
 
 ![calc3](/img/0319-libreoffice-calc-ss3.png)
 
-- ### hide row type
+- ## hide row type
 
 ![calc4](/img/0319-libreoffice-calc-ss4.png)
+
+- ## why all this repetition
+
+![calc5](/img/0319-libreoffice-calc-ss5.png)
