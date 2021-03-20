@@ -21,6 +21,9 @@ tags:
 ### minus the true, its a simple schema
 ![img](/img/0319-2-4.png)
 
+### so readible in yaml
+![img](/img/0319-2-5.png)
+
 
 
 
